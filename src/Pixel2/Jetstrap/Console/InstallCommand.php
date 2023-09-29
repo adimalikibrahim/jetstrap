@@ -13,7 +13,7 @@ class InstallCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'jetstrap_howhow:swap {stack : The development stack that should be installed}
+    protected $signature = 'jetstrap_2:swap {stack : The development stack that should be installed}
                                               {--teams : Indicates if team support should be installed}';
 
     /**
