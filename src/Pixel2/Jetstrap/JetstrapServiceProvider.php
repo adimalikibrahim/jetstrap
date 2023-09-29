@@ -1,6 +1,6 @@
 <?php
 
-namespace Pixel1\Jetstrap;
+namespace Pixel2\Jetstrap;
 
 use Illuminate\Support\ServiceProvider;
 

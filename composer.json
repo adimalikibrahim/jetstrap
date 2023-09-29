@@ -5,8 +5,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Pixel1",
-      "email": "hello@pixel1.com",
+      "name": "Pixel2",
+      "email": "hello@Pixel2.com",
       "role": "Developer"
     }
   ],
@@ -20,21 +20,21 @@
   },
   "autoload": {
     "psr-4": {
-      "Pixel1\\Jetstrap\\": "src/Pixel1/Jetstrap/"
+      "Pixel2\\Jetstrap\\": "src/Pixel2/Jetstrap/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Pixel1\\Jetstrap\\Tests\\": "tests/"
+      "Pixel2\\Jetstrap\\Tests\\": "tests/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Pixel1\\Jetstrap\\JetstrapServiceProvider"
+        "Pixel2\\Jetstrap\\JetstrapServiceProvider"
       ],
       "aliases": {
-        "Jetstrap": "Pixel1\\Jetstrap\\JetstrapFacade"
+        "Jetstrap": "Pixel2\\Jetstrap\\JetstrapFacade"
       }
     }
   },

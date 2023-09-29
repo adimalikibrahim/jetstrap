@@ -1,6 +1,6 @@
 <?php
 
-namespace Pixel1\Jetstrap\Console;
+namespace Pixel2\Jetstrap\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
